@@ -1,13 +1,16 @@
 # superCC
 A newly developed metabolic modeling pipeline, SuperCC, which could simulate the performances of different microbiomes.
 
+
 Main function:
 
 superCCmain: find the best combination with least number of models, and desigen the singel synthetic cell based on the best comnination.
 
+
 Input parameters: 
 
 scenarioID, PercentOfSpeciesBio, syntheticCell, filenames, speciesToConsider, CNsourcesName, CNsourcesNumber, mmMedium, directory, compoundtest.
+
 
 Other functions：
 
@@ -34,5 +37,6 @@ combineTwoModel: Combination of base models and another selected model.
 getEssensialReaction: Find the essensial reactions that in Rxnlist based on combineTwoModel results.
 
 getImportantRxn: Find the important reactions that could increase the biomass of the species.
+
 
 See superCC/doc for example documentation.
