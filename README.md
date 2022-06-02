@@ -4,7 +4,7 @@ A newly developed metabolic modeling pipeline, SuperCC, which could simulate the
 
 Main function:
 
-superCCmain: find the best combination with least number of models, and desigen the singel synthetic cell based on the best comnination.
+superCCmain: find the best combination with least number of models, and desigen the singel synthetic cell based on the best combination.
 
 
 Input parameters: 
