@@ -67,5 +67,5 @@ Solver: IBM CPLEX 12.10, GUROBI 9.1.1, MOSEK 9.2
 
 **models and media dependencies:**
 
-Microbial models and the growth media should be prepared before use this code. The detailed instructions on how to get microbial models and modified them can be found in the reference "Thiele, I., Palsson, B. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc 5, 93–121 (2010). https://doi.org/10.1038/nprot.2009.203". 
+Microbial models and the growth media should be prepared before using this code. The detailed instructions on how to get microbial models and modified them can be found in the reference: "Thiele, I., Palsson, B. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc 5, 93–121 (2010). https://doi.org/10.1038/nprot.2009.203". 
 
