@@ -4,12 +4,14 @@
 
 A newly developed metabolic modeling pipeline, Super Community Combinations (SuperCC), which could simulate the performances of different microbiomes.
 
+
 **Main function:**
 
 superCCmain: find the best combination with least number of models, and desigen the singel synthetic cell based on the best combination.
 
 Input parameters: 
 scenarioID, PercentOfSpeciesBio, syntheticCell, filenames, speciesToConsider, CNsourcesName, CNsourcesNumber, mmMedium, directory, compoundtest.
+
 
 **Other functions：**
 
@@ -28,6 +30,7 @@ GetEnhancedCombination: Calculate the biomass of each combination (each multispe
 GetMultiSpeciesModel: Based on GetAllCombination results, merge species into models and all reaction IDs from different databases were converted into for consistency.
 
 performSuperCC: Perform SuperCC under different simple/complicated media.
+
 
 _[For syntheticCell]_
 
@@ -48,10 +51,13 @@ The matlab code should be compatible with Windows, Mac, and Linux operating syst
 
 Before setting up the SuperCC framwork code, users should have MATLAB version 2014b or higher, and COBRA Toolbox should be installed according to the instructions from "https://opencobra.github.io/cobratoolbox/stable/installation.html".
 
+
 **Package and solver dependencies:**
 
 Packages: git, curl, COBRA Toolbox 
+
 Solver: IBM CPLEX 12.10, GUROBI 9.1.1, MOSEK 9.2
+
 
 **models and media dependencies:**
 
