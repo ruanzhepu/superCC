@@ -1,12 +1,12 @@
 # Super Community Combinations (SuperCC)
 
-**Overview: **
+**Overview:**
 
 A newly developed metabolic modeling pipeline, Super Community Combinations (SuperCC), which could simulate the performances of different microbiomes.
 
 
 
-**Main function: **
+**Main function:**
 
 superCCmain: find the best combination with least number of models, and desigen the singel synthetic cell based on the best combination.
 
@@ -47,7 +47,7 @@ See superCC/doc for example documentation.
 
 
 
-**System Requirements: **
+**System Requirements:**
 
 The SuperCC framwork is tested on Windows operating systems. 
 
@@ -57,7 +57,7 @@ Before setting up the SuperCC framwork code, users should have MATLAB version 20
 
 
 
-**Package and solver dependencies: **
+**Package and solver dependencies:**
 
 Packages: git, curl, COBRA Toolbox 
 
@@ -65,7 +65,7 @@ Solver: IBM CPLEX 12.10, GUROBI 9.1.1, MOSEK 9.2
 
 
 
-**models and media dependencies: **
+**models and media dependencies:**
 
 Microbial models and the growth media should be prepared before use this code. The detailed instructions on how to get microbial models and modified them can be found in the reference "Thiele, I., Palsson, B. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc 5, 93–121 (2010). https://doi.org/10.1038/nprot.2009.203". 
 
