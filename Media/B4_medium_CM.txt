@@ -1,0 +1,81 @@
+compounds	concentration	minFlux	maxFlux	Name	Formula	Charge	Compartment
+cpd00001	0.01	-1000	1000	H2O	H2O	0	Extracellular_0
+cpd00007	0.01	-1000	0	O2	O2	0	Extracellular_0
+cpd00009	0.01	-1000	1000	Phosphate	HO4P	-2	Extracellular_0
+cpd00010	0.01	-1000	1000	CoA	C21H32N7O16P3S	-4	Extracellular_0
+cpd00011	0.01	0	1000	CO2	CO2	0	Extracellular_0
+cpd00012	0.01	-1000	1000	PPi	HO7P2	-3	Extracellular_0
+cpd00013	0.01	-1000	1000	NH3	NH4	1	Extracellular_0
+cpd00023	0.01	-1000	1000	L-Glutamate	C5H8NO4	-1	Extracellular_0
+cpd00024	0.01	-1000	1000	2-Oxoglutarate	C5H4O5	-2	Extracellular_0
+cpd00027	0.01	-1000	1000	D-Glucose	C6H12O6	0	Extracellular_0
+cpd00029	0.01	-1000	1000	Acetate	C2H3O2	0	Extracellular_0
+cpd00030	0.01	-1000	1000	Mn2+	Mn	2	Extracellular_0
+cpd00034	0.01	-1000	1000	Zn2+	Zn	2	Extracellular_0
+cpd00038	0.01	-1000	1000	GTP	C10H13N5O14P3	-3	Extracellular_0
+cpd00039	0.01	-1000	1000	L-Lysine	C6H15N2O2	1	Extracellular_0
+cpd00048	0.01	-1000	1000	Sulfate	O4S	-2	Extracellular_0
+cpd00058	0.01	-1000	1000	Cu2+	Cu	2	Extracellular_0
+cpd00060	0.01	-1000	1000	L-Methionine	C5H11NO2S	0	Extracellular_0
+cpd00063	0.01	-1000	1000	Ca2+	Ca	2	Extracellular_0
+cpd00065	0.01	-1000	1000	L-Tryptophan	C11H12N2O2	0	Extracellular_0
+cpd00067	0.01	-1000	1000	H+	H	1	Extracellular_0
+cpd00098	0.01	-1000	1000	Choline	C5H14NO	1	Extracellular_0
+cpd00099	0.01	-1000	1000	Cl-	Cl	-1	Extracellular_0
+cpd00107	0.01	-1000	1000	L-Leucine	C6H13NO2	0	Extracellular_0
+cpd00136	0.01	-1000	1000	4-Hydroxybenzoate	C7H5O3	-1	Extracellular_0
+cpd00137	0.01	-1000	1000	Citrate	C6H5O7	-3	Extracellular_0
+cpd00149	0.01	-1000	1000	Co2+	Co	2	Extracellular_0
+cpd00156	0.01	-1000	1000	L-Valine	C5H11NO2	0	Extracellular_0
+cpd00182	0.01	-1000	1000	Adenosine	C10H13N5O4	0	Extracellular_0
+cpd00184	0.01	-1000	1000	Thymidine	C10H14N2O5	0	Extracellular_0
+cpd00205	0.01	-1000	1000	K+	K	1	Extracellular_0
+cpd00214	0.01	-1000	1000	Palmitate	C16H31O2	-1	Extracellular_0
+cpd00246	0.01	-1000	1000	Inosine	C10H12N4O5	0	Extracellular_0
+cpd00249	0.01	-1000	1000	Uridine	C9H12N2O6	0	Extracellular_0
+cpd00254	0.01	-1000	1000	Mg	Mg	2	Extracellular_0
+cpd00264	0.01	-1000	1000	Spermidine	C7H22N3	3	Extracellular_0
+cpd00277	0.01	-1000	1000	Deoxyguanosine	C10H13N5O4	0	Extracellular_0
+cpd00322	0.01	-1000	1000	L-Isoleucine	C6H13NO2	0	Extracellular_0
+cpd00367	0.01	-1000	1000	Cytidine	C9H13N3O5	0	Extracellular_0
+cpd00393	0.01	-1000	1000	Folate	C19H17N7O6	-2	Extracellular_0
+cpd00412	0.01	-1000	1000	Deoxyuridine	C9H12N2O5	0	Extracellular_0
+cpd00423	0.01	-1000	1000	Vitamin B12r	C62H91CoN13O14P	3	Extracellular_0
+cpd00438	0.01	-1000	1000	Deoxyadenosine	C10H13N5O3	0	Extracellular_0
+cpd00531	0.01	-1000	1000	Hg2+	Hg	2	Extracellular_0
+cpd00635	0.01	-1000	1000	Cbl	C62H91CoN13O14P	2	Extracellular_0
+cpd00637	0.01	-1000	1000	D-Methionine	C5H11NO2S	0	Extracellular_0
+cpd00654	0.01	-1000	1000	Deoxycytidine	C9H13N3O4	0	Extracellular_0
+cpd00793	0.01	-1000	1000	Thiamine phosphate	C12H16N4O4PS	-1	Extracellular_0
+cpd00971	0.01	-1000	1000	Na+	Na	1	Extracellular_0
+cpd01012	0.01	-1000	1000	Cd2+	Cd	2	Extracellular_0
+cpd01017	0.01	-1000	1000	Cys-Gly	C5H10N2O3S	0	Extracellular_0
+cpd01080	0.01	-1000	1000	ocdca	C18H35O2	-1	Extracellular_0
+cpd01914	0.01	-1000	1000	L-Methionine S-oxide	C5H11NO3S	0	Extracellular_0
+cpd03279	0.01	-1000	1000	Deoxyinosine	C10H12N4O4	0	Extracellular_0
+cpd03343	0.01	-1000	1000	Phenylpropanoate	C9H9O2	-1	Extracellular_0
+cpd03424	0.01	-1000	1000	Vitamin B12	C61H86CoN13O14PR	6	Extracellular_0
+cpd03725	0.01	-1000	1000	Fe(III)dicitrate	C12H10FeO14	0	Extracellular_0
+cpd03847	0.01	-1000	1000	Myristic acid	C14H27O2	-1	Extracellular_0
+cpd04097	0.01	-1000	1000	Pb	Pb	2	Extracellular_0
+cpd10516	0.01	-1000	1000	fe3	Fe	3	Extracellular_0
+cpd11576	0.01	-1000	1000	L-methionine R-oxide	C5H11NO3S	0	Extracellular_0
+cpd11580	0.01	-1000	1000	Gly-Gln	C7H13N3O4	0	Extracellular_0
+cpd11581	0.01	-1000	1000	gly-asn-L	C6H11N3O4	0	Extracellular_0
+cpd11582	0.01	-1000	1000	ala-L-Thr-L	C7H14N2O4	0	Extracellular_0
+cpd11583	0.01	-1000	1000	Ala-Leu	C9H18N2O3	0	Extracellular_0
+cpd11584	0.01	-1000	1000	Ala-His	C9H14N4O3	0	Extracellular_0
+cpd11585	0.01	-1000	1000	L-alanylglycine	C5H10N2O3	0	Extracellular_0
+cpd11586	0.01	-1000	1000	ala-L-glu-L	C8H13N2O5	-1	Extracellular_0
+cpd11587	0.01	-1000	1000	Ala-Gln	C8H15N3O4	0	Extracellular_0
+cpd11588	0.01	-1000	1000	gly-pro-L	C7H12N2O3	0	Extracellular_0
+cpd11589	0.01	-1000	1000	gly-asp-L	C6H9N2O5	-1	Extracellular_0
+cpd11590	0.01	-1000	1000	met-L-ala-L	C8H15N2O3S	-1	Extracellular_0
+cpd11591	0.01	-1000	1000	Gly-Met	C7H14N2O3S	0	Extracellular_0
+cpd11592	0.01	-1000	1000	gly-glu-L	C7H11N2O5	-1	Extracellular_0
+cpd11593	0.01	-1000	1000	ala-L-asp-L	C7H11N2O5	-1	Extracellular_0
+cpd11606	0.01	-1000	1000	Menaquinone 7	C46H64O2	0	Extracellular_0
+cpd15603	0.01	-1000	1000	Gly-Cys	C5H10N2O3S	0	Extracellular_0
+cpd15604	0.01	-1000	1000	Gly-Leu	C8H16N2O3	0	Extracellular_0
+cpd15605	0.01	-1000	1000	Gly-Phe	C11H14N2O3	0	Extracellular_0
+cpd15606	0.01	-1000	1000	Gly-Tyr	C11H14N2O4	0	Extracellular_0
