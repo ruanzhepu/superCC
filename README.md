@@ -65,7 +65,21 @@ Solver: IBM CPLEX 12.10, GUROBI 9.1.1, MOSEK 9.2
 
 
 
-**models and media dependencies:**
+**Models and media dependencies:**
 
 Microbial models and the growth media should be prepared before using this code. The detailed instructions on how to get microbial models and modified them can be found in the reference: "Thiele, I., Palsson, B. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc 5, 93–121 (2010). https://doi.org/10.1038/nprot.2009.203". 
+
+
+
+**DHP-Com:**
+
+A novel and rational paradigm for consortium design is proposed using SuperCC, designated as DHP-Com (Degrader-Helper-Potentiator). Among the components, Potentiators refer to core species that maintain stable habitat abundance. Notably, synthetic microbiomes constructed under this framework not only exhibit enhanced ecological fitness (encompassing survival and growth) but also—most importantly—deliver substantially improved remediation performance across diverse co-contamination scenarios.
+
+The modified single-strain metabolic models of the six representative strains involved in DHP-Com, along with their corresponding culture media, are detailed in "DHP-Com (six representative species)".
+
+
+
+**Reference:**
+
+Ruan, Z., Chen, K., Cao, W. et al. Engineering natural microbiomes toward enhanced bioremediation by microbiome modeling. Nat Commun 15, 4694 (2024). https://doi.org/10.1038/s41467-024-49098-z
 
